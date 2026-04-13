@@ -1,6 +1,6 @@
 # Shopify UX Resources
 
-A curated list of e-commerce UX research we reference when conducting [Shopify storefront audits at Spruce Pixel](https://sprucepixel.com/pages/services). These are the sources we trust for evidence-based recommendations.
+A curated list of e-commerce UX research we reference when conducting [Shopify storefront audits at Spruce Pixel](https://sprucepixel.com/pages/storefront-audit). These are the sources we trust for evidence-based recommendations.
 
 ## Baymard Institute
 
@@ -31,4 +31,4 @@ A curated list of e-commerce UX research we reference when conducting [Shopify s
 
 ## About This List
 
-This list is maintained by the team at [Spruce Pixel](https://sprucepixel.com/pages/services). We use these sources to ground every finding in our Shopify storefront UX audits in published research rather than opinion. If a recommendation isn't backed by data, we say so.
+This list is maintained by the team at [Spruce Pixel](https://sprucepixel.com/pages/storefront-audit). We use these sources to ground every finding in our Shopify storefront UX audits in published research rather than opinion. If a recommendation isn't backed by data, we say so.
